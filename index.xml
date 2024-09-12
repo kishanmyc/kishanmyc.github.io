@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>On Github Pages Kishan First Blog</title>
+    <link>https://kishanmyc.github.io/</link>
+    <description>Recent content on On Github Pages Kishan First Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Sep 2024 09:39:49 +0530</lastBuildDate><atom:link href="https://kishanmyc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is the post title</title>
+      <link>https://kishanmyc.github.io/posts/mypost/</link>
+      <pubDate>Thu, 12 Sep 2024 09:39:49 +0530</pubDate>
+      
+      <guid>https://kishanmyc.github.io/posts/mypost/</guid>
+      <description>this is some content
+print(&amp;#34;this is some content github pages&amp;#34;) </description>
+    </item>
+    
+  </channel>
+</rss>
